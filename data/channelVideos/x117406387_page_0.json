@@ -1,0 +1,47 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117404135",
+            "title": "Astralasia - Seven Pointed Star (Full Version)",
+            "date_created": "1505334106",
+            "loginId": "1758397",
+            "tags": null,
+            "description": "psy trance.",
+            "asset": {
+                "type": "youtube",
+                "author": "waldvolk",
+                "hdvFlag": 0,
+                "description": "psy trance.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/lgZPF_l6g6A\/hqdefault.jpg",
+                "videoId": "lgZPF_l6g6A",
+                "mediaDuration": 403,
+                "prettyDuration": "00:06:43"
+            },
+            "parentId": "117406387",
+            "url": "\/3\/astralasia-seven-pointed-star-full-version\/117406387-117404135"
+        },
+        {
+            "id": "117404136",
+            "title": "Quasar - I Never Tought I'd See The Day",
+            "date_created": "1505334147",
+            "loginId": "1758397",
+            "tags": null,
+            "description": "Quasar: https:\/\/soundcloud.com\/qs4r https:\/\/quas4r.bandcamp.com ...",
+            "asset": {
+                "type": "youtube",
+                "author": "Houseum",
+                "hdvFlag": 1,
+                "description": "Quasar: https:\/\/soundcloud.com\/qs4r https:\/\/quas4r.bandcamp.com ...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zMY8WPsSSUk\/maxresdefault.jpg",
+                "videoId": "zMY8WPsSSUk",
+                "mediaDuration": 425,
+                "prettyDuration": "00:07:05"
+            },
+            "parentId": "117406387",
+            "url": "\/3\/quasar-i-never-tought-i-d-see-the-day\/117406387-117404136"
+        }
+    ]
+}
